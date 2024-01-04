@@ -21,7 +21,7 @@ Olá, meu nome é Geraldo, sou um educador em expansão de carreira.
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com)
 
 ## Habilidades
-
+<div style="display: inline_block">
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
@@ -35,6 +35,8 @@ Olá, meu nome é Geraldo, sou um educador em expansão de carreira.
 ![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![VSCode](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</div><br> 
 
 ## Interesses
 
